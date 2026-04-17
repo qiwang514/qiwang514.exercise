@@ -38,6 +38,7 @@ public class UserPromptTemplateExample {
 
         System.out.println("优化后的简历:\n" + optimized);
         System.out.println("commit");
+        System.out.println("第三次提交");
     }
 }
 
