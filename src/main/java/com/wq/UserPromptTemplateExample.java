@@ -37,6 +37,7 @@ public class UserPromptTemplateExample {
         String optimized = assistant.optimizeResume(resumeContent, "互联网", "后端开发");
 
         System.out.println("优化后的简历:\n" + optimized);
+        System.out.println("commit");
     }
 }
 
